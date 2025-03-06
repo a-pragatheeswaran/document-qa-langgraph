@@ -136,7 +136,6 @@ To help future contributors and users understand your project, create a `screens
 2. Name them descriptively:
    - `document-upload.png`
    - `chat-interface.png`
-   - `example-query.png`
 
 3. Optimize images for web (compress without losing quality)
 
