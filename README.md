@@ -32,8 +32,6 @@ Document Q&A Assistant is an advanced Streamlit application that allows users to
   - PyPDF2
   - PDF2Image
 
-## 🛠 Project Link: [LangGraph Document QA Assistant](https://huggingface.co/spaces/pragatheeswaran/langgraph-document-qa-assistant)
-
 ## 📦 Prerequisites
 
 - Python 3.8+
@@ -83,6 +81,8 @@ streamlit run app.py
 
 ### Screenshot 2: Chat Interface
 ![Chat Interface](screenshots/images_3.png)
+
+## 🛠 Project Link: [LangGraph Document QA Assistant](https://huggingface.co/spaces/pragatheeswaran/langgraph-document-qa-assistant)
 
 ## 🤝 Contributing
 
